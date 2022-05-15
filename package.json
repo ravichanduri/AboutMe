@@ -1,0 +1,19 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "this is completely about me ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravichanduri/AboutMe.git"
+  },
+  "author": "Ravi Chanduri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravichanduri/AboutMe/issues"
+  },
+  "homepage": "https://github.com/ravichanduri/AboutMe#readme"
+}
